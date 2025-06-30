@@ -1,2 +1,2 @@
 # sidewalk daisy
-personal website
+i heart hack club
