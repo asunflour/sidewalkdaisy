@@ -1,2 +1,2 @@
-# sidewalkdaisy
+# sidewalk daisy
 personal website
